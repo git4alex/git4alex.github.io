@@ -162,7 +162,7 @@ article.link .title a:after {
   vertical-align: super;
 }
 article .post-content {
-  padding: 20px 20px 15px 77px;
+  padding: 32px 32px 20px 77px;
   margin-bottom: 50px;
   position: relative;
 }
